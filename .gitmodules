@@ -1,0 +1,9 @@
+[submodule "submod-cdk"]
+	path = submod-cdk
+	url = https://github.com/spring-hh/submod-cdk.git
+[submodule "submod-django"]
+	path = submod-django
+	url = https://github.com/spring-hh/submod-django.git
+[submodule "submod-nextjs"]
+	path = submod-nextjs
+	url = https://github.com/spring-hh/submod-nextjs.git
